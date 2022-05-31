@@ -5,4 +5,6 @@ En este juego, se acataron las instrucciones para el examen ordinario que se enc
 https://github.com/soysofia/ulsajuego3dsofia.git
 
 
-Igualmente, el trigger para poder pasar de la escena del parque medieval a la escena de la casita es la puerta, si la mage toca la puerta hay un cubito con un trigger que la transportará a la siguiente escena
+Igualmente, el trigger para poder pasar de la escena del parque medieval a la escena de la casita es la puerta, si la mage toca la puerta hay un cubito con un trigger que la transportará a la siguiente escena.
+
+Gracias por leer c:
